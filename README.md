@@ -1,6 +1,7 @@
 # Tumor Detection using CNN
 
-![Tumor Detection App - a Hugging Face Space by annapurnapadmaprema-ji - Google Chrome 16-11-2024 02_04_55 PM](https://github.com/user-attachments/assets/e8af8ae2-db62-4fe8-8ee0-627c5a28fb60)
+![Tumor Detection App - a Hugging Face Space by annapurnapadmaprema-ji - Google Chrome 16-11-2024 02_04_55 PM](https://github.com/user-attachments/assets/04cac903-ee60-4d10-bfec-72c7a4b751b4)
+
 
 
 This project is a web-based application for detecting tumors in medical images using a pre-trained Convolutional Neural Network (CNN). It provides an intuitive interface for users to upload images and receive predictions.
