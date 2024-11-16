@@ -5,7 +5,7 @@
 
 
 This project is a web-based application for detecting tumors in medical images using a pre-trained Convolutional Neural Network (CNN). It provides an intuitive interface for users to upload images and receive predictions.
-Visit project to know more : https://huggingface.co/spaces/annapurnapadmaprema-ji/Tumor-Detection-App![Uploading Tumor Detection App - a Hugging Face Space by annapurnapadmaprema-ji - Google Chrome 16-11-2024 02_04_55 PM.png…]()
+Visit project to know more : https://huggingface.co/spaces/annapurnapadmaprema-ji/Tumor-Detection-App
 
 ## Application Overview
 - **Upload an Image**: Supports medical images in `.jpg`, `.jpeg`, or `.png` format.
